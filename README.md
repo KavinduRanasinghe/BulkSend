@@ -159,9 +159,8 @@ Invalid emails are rejected before sending.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/bulk-email-manager.git
-
-cd bulk-email-manager
+https://github.com/KavinduRanasinghe/BulkSend.git
+cd BulkSend
 ```
 
 ### Create Virtual Environment
