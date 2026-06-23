@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📧 Bulk Email Management System")
+st.title("📧 Bulk Sender")
 
 # =========================
 # HELPER FUNCTIONS
